@@ -1,0 +1,6 @@
+2)
+a. Sim, o método calclaImposto é um exemplo de polimorfismo.
+b. Sim, o método listar na classe CadastroImoveis é um exemplo de sobrecarga.
+c. Sim, o método toString() pode ser sobrescrito com @Override
+d. A classe abstrata Imovel não pode ser instânciada.
+e. O método abstrato calculaImposto deve ser reescrito em outra/outras subclasses.
